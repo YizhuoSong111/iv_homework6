@@ -18,6 +18,7 @@ export function BarChart (props) {
           setSelectedAirline(d.AirlineID); // Select the clicked airline
         }
       };
+      
     //TODO:
     //1.Change the mouse event in <rect/> to onClick;
     //2.Remove the onMouseOut in <rect />;
